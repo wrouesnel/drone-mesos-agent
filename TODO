@@ -1,0 +1,2 @@
+* Adapt the drone 0.5 agent code to run execute the Mesos scheduler.
+* Get jobs running (with logs)
